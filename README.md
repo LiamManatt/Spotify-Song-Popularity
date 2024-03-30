@@ -1,4 +1,4 @@
-# CSE 151A Project
+# Spotify Song Popularity Prediction
 Group Members: Christen Xie, Ojas Vashishtha, Liam Manatt, Akshat Jain
 
 ## Colab Notebook:
